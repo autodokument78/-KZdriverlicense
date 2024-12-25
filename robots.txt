@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://autodokument78.github.io/-Belarusiandriverlicense/sitemap.xml
-Host: https://autodokument78.github.io/-Belarusiandriverlicense/
+Host: https://autodokument78.github.io/KZdriverlicense/
